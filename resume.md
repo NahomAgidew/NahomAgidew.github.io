@@ -2,9 +2,9 @@
 
 abinah@uw.edu
 
-https://www.nahom.co
+[Personal Website](https://www.nahom.co)
 
-https://www.linkedin.com/in/nahomabi
+[LinkedIn](https://www.linkedin.com/in/nahomabi)
 
 # Summary
 
@@ -28,7 +28,9 @@ I have been programming for 8 years with a track record of successful commercial
 - Implemented widgets in Typescript and React
 
 ## Jebena (Seattle, WA)
+
   *[Jebena][] A dating startup I co-founded*
+  ![Jebena screenshots](https://jebena.app/static/media/jebena_screenshots.00ec88d7.png)
 
 **Co-founder (Engineer)** (November 2019 - Present)
 
