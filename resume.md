@@ -10,7 +10,7 @@ abinah@uw.edu
 
 I have been programming for 8 years with a track record of successful commercial products and internships.
 
-# Work Experience (only last 10 years)
+# Work Experience
 
 ## Dropbox (Seattle, WA)
 
