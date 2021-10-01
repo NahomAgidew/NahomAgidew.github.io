@@ -16,7 +16,7 @@ I have been programming for 8 years with a track record of successful commercial
 
 **Software Engineering Intern** (June 2021 - September 2021)
 
-- **Incoming Intern**.
+- Worked on [HelloSign](https://www.hellosign.com/).
 
 
 ## Tableau (Palo Alto, CA)
@@ -29,15 +29,12 @@ I have been programming for 8 years with a track record of successful commercial
 
 ## Jebena (Seattle, WA)
 
-  *[Jebena][] A dating startup I co-founded*
-  ![Jebena screenshots](https://jebena.app/static/media/jebena_screenshots.00ec88d7.png)
+  *[Jebena](https://www.jebena.app) A dating startup I co-founded*
 
 **Co-founder (Engineer)** (November 2019 - Present)
 
 - Built the first dating app for Ethiopians and Eritreans.
-- Grew the app from just and idea to over **40,000** users and **$75,000** in revenue.
+- Grew the app from just and idea to over **60,000** users and **$110,000** in revenue.
 - Worked on every aspect of the development, from the client-side in ReactNative to server-side in Google Cloud, Node.js, Redis, MongoDB, and Postgres.
 
-
-
-[Jebena]: https://jebena.app/
+![Jebena screenshots](https://jebena.app/static/media/jebena_screenshots.00ec88d7.png)
