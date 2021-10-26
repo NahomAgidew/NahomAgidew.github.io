@@ -26,7 +26,7 @@ This equivalent to the [Apple App Store](https://www.apple.com/app-store/) or th
 ## See also
 - [Metaverse Primer](https://www.matthewball.vc/all/forwardtothemetaverseprimer)
 - [WHAT IS THE METAVERSE, AND DO I HAVE TO CARE?](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon)
-- [Explainer: What is the 'metaverse'?]([url](https://www.youtube.com/watch?v=99BnZ8js1_k))
+- [Explainer: What is the 'metaverse'?](https://www.youtube.com/watch?v=99BnZ8js1_k)
 
 ## References
 1. Matthew Ball's Blog
